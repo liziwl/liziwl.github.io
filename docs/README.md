@@ -35,5 +35,5 @@ I am currently a **master** student in **SUSTech**. My research interests mainly
   * Shin Hwei Tan, Ziqiang Li
 * \[ICSE 2020 Poster\] Bugine: a bug report recommendation system for Android apps
   * Ziqiang Li, Shin Hwei Tan
-  * [\[Poster\]](./ziqiang-icse2020-poster.pdf), [\[Video\]](https://youtu.be/v9qcGVhUIyI)
+  * [\[Preprint\]](./ziqiang-icse2020-poster-preprint.pdf), [\[Poster\]](./ziqiang-icse2020-poster.pdf), [\[Video\]](https://youtu.be/v9qcGVhUIyI)
 
