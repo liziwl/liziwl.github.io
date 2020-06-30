@@ -1,0 +1,16 @@
+{
+  "name": "liziwl.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liziwl/liziwl.github.io.git",
+  "author": "liziwl <leezisy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:cname": "echo \"liziwl.cn\"> docs/.vuepress/dist/CNAME"
+  }
+}
