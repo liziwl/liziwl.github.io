@@ -12,7 +12,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: 'https://liziwl.cn/blog' },
+      { text: 'Ins', link: 'https://www.instagram.com/lizi_arthur/' },
     ],
     repo: 'https://github.com/liziwl',
 
