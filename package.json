@@ -6,6 +6,7 @@
   "author": "liziwl <leezisy@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.5.2",
     "vuepress": "^1.5.2"
   },
   "scripts": {

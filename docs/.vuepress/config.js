@@ -7,8 +7,14 @@ module.exports = {
   },
   // head: [
   // ],
-  // plugins: [
-  // ],
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-172734433-1' // UA-00000000-0
+      },
+    ],
+  ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
