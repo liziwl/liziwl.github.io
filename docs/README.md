@@ -14,7 +14,7 @@
     <th class="tg-0lax"><img src="./avatar.jpg" alt="protrait" width="200" style="margin-top:5px"></th>
     <th class="tg-0lax">
     <span style="font-size:1.5em;">Ziqiang Li（李子强）</span><br><br>
-    Email: 11930674__AT__mail.sustech.edu.cn<br>
+    Email: lizq2019__AT__mail.sustech.edu.cn<br>
     Department of Computer Science and Engineering<br>
     Southern University of Science and Technology (SUSTech)<br>
     Shenzhen, China</th>
