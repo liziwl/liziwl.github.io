@@ -22,7 +22,7 @@
 </thead>
 </table>
 
-I am currently a **master** student in **SUSTech**. My research interests mainly focus on automated debugging and software repair.
+I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hwei Tan](https://www.shinhwei.com/). My research interests mainly focus on automated debugging and software repair.
 
 ## Education
 
