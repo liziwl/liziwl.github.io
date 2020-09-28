@@ -27,6 +27,9 @@ I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hw
 ## Education
 
 * Southern University of Science and Technology
+  * \[2019-2022(Estimate)\] *Master* in Computer Science and Engineering (CSE)
+
+* Southern University of Science and Technology
   * \[2015-2019\] *Bachelor* in Computer Science and Engineering (CSE)
 
 ## Publications
