@@ -5,8 +5,9 @@ module.exports = {
       lang: 'en-US',
     }
   },
-  // head: [
-  // ],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   plugins: [
     [
       '@vuepress/google-analytics',
