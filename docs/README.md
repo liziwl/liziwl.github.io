@@ -41,7 +41,7 @@ I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hw
 
 * \[ICSE 2020 Poster\] Bugine: a bug report recommendation system for Android apps
   * **Ziqiang Li**, Shin Hwei Tan
-  * [\[Pdf\]](./ziqiang-icse2020-poster-preprint.pdf), [\[Poster\]](./ziqiang-icse2020-poster.pdf), [\[Video\]](https://youtu.be/v9qcGVhUIyI)
+  * [\[Pdf\]](./ziqiang-icse2020-poster-preprint.pdf), [\[Poster\]](./ziqiang-icse2020-poster.pdf), [\[Video\]](https://youtu.be/v9qcGVhUIyI), [\[Tool\]](https://github.com/liziwl/Bugine)
 
 ## Honors and awards
 
