@@ -1,26 +1,42 @@
 # Home
 
 ## Biography
-
-
 <style type="text/css">
-.tg .tg-0lax{border: 1px solid transparent;text-align:left;vertical-align:middle;font-weight:normal;}
+  #avatar {
+    padding-left: 1em;
+    padding-bottom: 0.5em;
+    display: inline-block;
+  }
+
+  #avatar img {
+    max-width: 200px;
+  }
+
+  #brief {
+    display: inline-block;
+    padding-left: 1em;
+    padding-right: 1em;
+    vertical-align: top;
+  }
+
+  .row {
+    width: 100%;
+    padding-top: 1em;
+  }
 </style>
 
-</table>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"><img src="./avatar.jpg" alt="protrait" width="200" style="margin-top:5px"></th>
-    <th class="tg-0lax">
-    <span style="font-size:1.5em;">Ziqiang Li（李子强）</span><br><br>
-    Email: lizq2019__AT__mail.sustech.edu.cn<br>
-    Department of Computer Science and Engineering<br>
-    Southern University of Science and Technology (SUSTech)<br>
-    Shenzhen, China</th>
-  </tr>
-</thead>
-</table>
+<div class="row">
+  <div id="avatar">
+    <img src="./avatar.jpg" alt="protrait">
+  </div>
+  <div id="brief">
+    <span style="font-size:1.5em;">Ziqiang Li（李子强）</span>
+    <p>Email: lizq2019(__AT__)mail.sustech.edu.cn<br>
+      Department of Computer Science and Engineering<br>
+      Southern University of Science and Technology (SUSTech)<br>
+      Shenzhen, China</p>
+  </div>
+</div>
 
 I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hwei Tan](https://www.shinhwei.com/). My research interests mainly focus on automated debugging and software repair.
 
