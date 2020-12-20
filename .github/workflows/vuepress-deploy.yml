@@ -20,3 +20,21 @@ jobs:
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build && yarn docs:cname
         BUILD_DIR: docs/.vuepress/dist/
+
+    - name: Deploy to coding
+      run: |
+        sha=$(git rev-parse --short HEAD)
+        mkdir -p /tmp/liziwl_page_push
+        cp -r docs/.vuepress/dist/* /tmp/liziwl_page_push
+        cd /tmp/liziwl_page_push
+        git init
+        git config user.name "liziwl"
+        git config user.email "leezisy@gmail.com"
+        git remote add origin "https://${CODING_USER}:${CODING_PERSONAL_TOKEN}@${CODING_URL}"
+        git add .
+        git commit -m "Deploy ${sha}"
+        git push -u -f origin master
+      env:
+        CODING_USER: ${{ secrets.CODING_USER }}
+        CODING_PERSONAL_TOKEN: ${{ secrets.CODING_PERSONAL_TOKEN }}
+        CODING_URL: "e.coding.net/liziwl/liziwl-page/liziwl-page.git"
