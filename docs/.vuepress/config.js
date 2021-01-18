@@ -13,8 +13,13 @@ module.exports = {
       '@vuepress/google-analytics',
       {
         'ga': 'UA-172734433-1' // UA-00000000-0
-      },
+      }
     ],
+    [
+      'sitemap', {
+        hostname: 'https://liziwl.cn'
+      }
+    ]
   ],
   themeConfig: {
     nav: [
