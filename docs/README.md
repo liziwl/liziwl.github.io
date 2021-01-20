@@ -76,7 +76,7 @@ I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hw
 ## Service 
 
 * Student assistant
-  * **CS209A** Computer System Design and Application (A) (Spring 2018)
+  * **CS209A** Computer System Design and Application (A) \[a.k.a Introduction to Java programming\] (Spring 2018)
   * **CS205** C/C++ Programming Language (Spring 2019)
-  * **CS304** Software Engineering (Spring 2019 [**Award**], Spring 2020)
+  * **CS304** Software Engineering (Spring 2019 [**Award**], Spring 2020, Spring 2021)
   * **CS409** Software Testing (Fall 2019, Fall 2020)
