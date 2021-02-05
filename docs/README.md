@@ -50,6 +50,8 @@ I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hw
 
 ## Publications
 
+* \[ICSE 2021 Education Track\] GitHub-OSS Fixit: Fixing bugs at scale in a Software Engineering Course
+  * Shin Hwei Tan, Chunfeng Hu, **Ziqiang Li**, Xiaowen Zhang, Ying Zhou
 
 * \[ICSE 2020\] Collaborative bug finding for Android apps
   * Shin Hwei Tan, **Ziqiang Li**
