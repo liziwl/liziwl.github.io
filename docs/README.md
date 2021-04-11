@@ -38,7 +38,7 @@
   </div>
 </div>
 
-I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hwei Tan](https://www.shinhwei.com/). My research interests mainly focus on automated debugging and software repair.
+I am currently a **master** student in **[SUSTech CSE](http://cse.sustech.edu.cn/)**, supervised by Prof. [Shin Hwei Tan](https://www.shinhwei.com/). My research interests mainly focus on automated debugging and software repair.
 
 ## Education
 
@@ -76,7 +76,7 @@ I am currently a **master** student in **SUSTech**, supervised by Prof. [Shin Hw
 * **NVIDIA** Test Engineering Intern (Jul. 2018 - Jan. 2019)
 * **The University of British Columbia**, Summer Program, Electrical and Electronics Engineering, (Jul. 2017, Aug. 2017)
 
-## Service 
+## Service
 
 * Student assistant
   * **CS209A** Computer System Design and Application (A) \[a.k.a Introduction to Java programming\] (Spring 2018)
