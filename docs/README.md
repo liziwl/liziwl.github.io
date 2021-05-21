@@ -85,4 +85,4 @@ I am currently a **master** student in **[SUSTech CSE](http://cse.sustech.edu.cn
   * **CS409** Software Testing (Fall 2019, Fall 2020)
 * Seminar Speaker
   * Introduction to LaTeX hosted by SUSTech library (March 31, 2021)
-    * [\[Slides\]]([./ziqiang-icse2020-poster-preprint.pdf](https://github.com/SUSTech-CRA/latex-talk))
+    * [\[Slides\]](https://github.com/SUSTech-CRA/latex-talk)
