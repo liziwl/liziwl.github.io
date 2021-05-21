@@ -67,7 +67,7 @@ I am currently a **master** student in **[SUSTech CSE](http://cse.sustech.edu.cn
 - Graduate scholarship, SUSTech, 2019 - 2022
 - National undergraduate software testing competition finals, **Second Class**, Dec. 2019
 - Testing Competition on International Symposium on Software Testing and Analysis ([ISSTA](https://conf.researchr.org/track/issta-2019/isstatestcomp-2019-papers)), **Fifth place**, Jul. 2019
-- Outstanding UG teaching assistant, CSE department, SUSTech, Jul. 2019
+- Outstanding UG teaching assistant (Software Engineering, Spring 2019), CSE department, SUSTech, Jul. 2019
 - Annual outstanding students scholarship, **Third Class**, SUSTech, Oct. 2017
 - Annual outstanding students scholarship, **Second Class**, SUSTech, Oct. 2016
 
